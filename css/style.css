@@ -23,7 +23,7 @@ body {
   background-color: var(--clr-primary-500);
   border-radius: 15px;
   text-align: center;
-  background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+  background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
   background-repeat: no-repeat, no-repeat;
   background-size: cover, cover;
   background-attachment: fixed, fixed;
